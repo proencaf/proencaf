@@ -1,7 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Filipe!
 
- -🔭 I’m currently a student at SoC
- -🌱 I’m currently learning React
+ 
+- 🔭 I’m currently a student at SoC
+- 🌱 I’m currently learning React
 
 <!--
 **proencaf/proencaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
