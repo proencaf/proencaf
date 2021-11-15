@@ -2,7 +2,7 @@
 
 #
 <p>Software Developer in search of a full-time role where I can continue to learn and experiment with a variety of languages and frameworks. Pre-tech, I worked in various business roles, ranging from management, marketing, and business development. </p>
-⚡ Fun fact: School of Code Graduate 👉🏽https://www.schoolofcode.com/👈🏽
+⚡ Fun fact: <b >School of Code Graduate</b> 👉🏽https://www.schoolofcode.com/👈🏽
 
 
 
