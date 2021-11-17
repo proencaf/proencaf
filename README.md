@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there!%20&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi% there!%20&fontSize=90" />
 
 #
 <p>Software Developer in search of a full-time role where I can continue to learn and experiment with a variety of languages and frameworks. Pre-tech, I worked in various business roles, ranging from management, marketing, and business development. </p>
